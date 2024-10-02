@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **A calling bot for automating cold calling in sales and a platform to automate and make content creation fast and easy**
 
-- 🌱 I’m currently learning **Next and vue.js , Backend development and Quantum Computing Fundamentals**
+- 🌱 I’m currently learning **AR and vue.js , Backend development, and Quantum Computing Fundamentals**
 
-- 👯 I’m looking to collaborate on **any project in AR,AI,Quantum Computing and Blockchain domain**
+- 👯 I’m looking to collaborate on **any project in AR, AI/ML, Quantum Computing and Blockchain domain**
 
 - 🤝 I’m looking for help with **some funds to move to SF**
 
