@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya in short adi</h1>
+<h1 align="center">Hi 👋, I'm Aditya </h1>
 <h3 align="center">I am a passionate problem solver who works in AI/ML field, AR/VR and Quantum Computing. I learn things by creating projects because those things are really required in my projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya10avg&label=Profile%20views&color=0e75b6&style=flat" alt="aditya10avg" /> </p>
