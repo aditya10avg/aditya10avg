@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-gayakwad-ba993026a](https://www.linkedin.com/in/aditya-gayakwad-ba993026a)
 
-- ⚡ Fun fact **I think very crazy way and will express those thoughts If I get comfortable with that person**
+- ⚡ Fun fact **I think very crazy way and will express those thoughts If I get comfortable with the other person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
