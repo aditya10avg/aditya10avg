@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya </h1>
-<h3 align="center">I am a passionate problem solver who works in AI/ML field, AR/VR, and Quantum Computing. I learn things by creating projects.</h3>
+<h3 align="center">I am a passionate problem solver who works in AI/ML field, AR/VR, and Quantum Computing. I learn things by creating projects and love startups.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya10avg&label=Profile%20views&color=0e75b6&style=flat" alt="aditya10avg" /> </p>
 
@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/avg_aditya" target="blank"><img src="https://img.shields.io/twitter/follow/avg_aditya?logo=twitter&style=for-the-badge" alt="avg_aditya" /></a> </p>
 
 - 🔭 I’m currently working on [AI sales and cold calling bot](https://github.com/aditya10avg/Sales-Bot.git)
+- 🤝 I love startups because the main goal in startups is problems solving and constant innovations
 
 - 🌱 I’m currently learning **Unity, AR and Quantum Computing**
 
@@ -17,7 +18,7 @@
 
 - 👨‍💻 Check out my personal website to know more about me as a person [https://adityavg10.netlify.app/](https://adityavg10.netlify.app/)
 
-- 💬 Ask me about **Startups and emerging technologies like AR/VR, Quantum Computing, Blockchain. (I am more curious about this things)**
+- 💬 Ask me about **Startups and emerging technologies like AR/VR, Quantum Computing, and Blockchain. (I am more curious about these things)**
 
 - 📫 How to reach me **adityavg1005@gmail.com**
 
