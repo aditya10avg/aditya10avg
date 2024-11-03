@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">I am a passionate problem solver who works in AI/ML field, AR/VR and Quantum Computing. I learn by creating Projects.</h3>
+<h3 align="center">I am a passionate problem solver who works in AI/ML field, AR/VR and Quantum Computing. I Learn by Creating Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya10avg&label=Profile%20views&color=0e75b6&style=flat" alt="aditya10avg" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/avg_aditya" target="blank"><img src="https://img.shields.io/twitter/follow/avg_aditya?logo=twitter&style=for-the-badge" alt="avg_aditya" /></a> </p>
 
-- 🔭 I’m currently working on [Calley(AI sales and cold calling bot)](https://github.com/aditya10avg/Sales-Bot.git)
+- 🔭 I’m currently working on [Calley(AI sales and cold calling bot)] ([https://www.calleyai.tech/])
 
 - 🌱 I’m currently learning **Unity, AR, BlockChain and Quantum Computing.**
 
