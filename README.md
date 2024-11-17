@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/avg_aditya" target="blank"><img src="https://img.shields.io/twitter/follow/avg_aditya?logo=twitter&style=for-the-badge" alt="avg_aditya" /></a> </p>
 
-- 🔭 I’m currently working on [Calley(AI sales and cold calling bot)] ([https://www.calleyai.tech/])
+- 🔭 I’m currently working on Calley AI (Sales and Cold Calling AI voice agent) ([https://www.calleyai.tech/])
 
-- 🌱 I’m currently learning **Unity, AR, BlockChain and Quantum Computing.**
+- 🌱 I’m currently learning **Unity, AR, BlockChain, and Quantum Computing.**
 
-- 👯 I’m looking to collaborate on [An opensource Fraud Prevention AI.Also open to any AI/ML, AR and Quantum Computing related projects](https://github.com/aditya10avg/Scam-Protect.git)
+- 👯 I’m looking to collaborate on [An open-source Fraud Prevention AI. Also open to any AI/ML, AR, and Quantum Computing related projects](https://github.com/aditya10avg/Scam-Protect.git)
 
 - 🤝 I’m looking for help with [Scam-Protect project](https://github.com/aditya10avg/Scam-Protect.git)
 
-- 👨‍💻 Check out my personal website to know more about me as a person [https://adityavg10.netlify.app/](https://adityavg10.netlify.app/)
+- 👨‍💻 Check out my website to know more about me as a person [https://adityavg10.netlify.app/](https://adityavg10.netlify.app/)
 
-- 💬 Ask me about **Startups and emerging technologies like AR/VR, Quantum Computing, Blockchain. (I am more curious about this things)**
+- 💬 Ask me about **Startups and emerging technologies like AR/VR, Quantum Computing, and Blockchain. (I am more curious about these things)**
 
 - 📫 How to reach me **adityavg1005@gmail.com**
 
