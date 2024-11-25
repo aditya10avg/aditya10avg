@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Calley AI (Sales and Cold Calling AI voice agent) ([https://www.calleyai.tech/])
 
-- 🌱 I’m currently learning **Unity, AR, BlockChain, and Quantum Computing.**
+- 🌱 I’m currently learning **Unity, AR, and Quantum Computing.**
 
 - 👯 I’m looking to collaborate on [An open-source Fraud Prevention AI. Also open to any AI/ML, AR, and Quantum Computing related projects](https://github.com/aditya10avg/Scam-Protect.git)
 
@@ -17,13 +17,13 @@
 
 - 👨‍💻 Check out my website to know more about me as a person [https://adityavg10.netlify.app/](https://adityavg10.netlify.app/)
 
-- 💬 Ask me about **Startups and emerging technologies like AR/VR, Quantum Computing, and Blockchain. (I am more curious about these things)**
+- 💬 Ask me about **Startups and emerging technologies like AR/VR, and Quantum Computing. (I am more curious about these things)**
 
 - 📫 How to reach me **adityavg1005@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-gayakwad-ba993026a](https://www.linkedin.com/in/aditya-gayakwad-ba993026a)
 
-- ⚡ Fun fact **I think very crazy way and will express those thoughts If I get comfortable with that person**
+- ⚡ Fun fact **I think in a very crazy way and will express those thoughts If I get comfortable with that person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
