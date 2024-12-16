@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/avg_aditya" target="blank"><img src="https://img.shields.io/twitter/follow/avg_aditya?logo=twitter&style=for-the-badge" alt="avg_aditya" /></a> </p>
 
-- 🔭 I’m currently working on Calley AI (Sales and Cold Calling AI voice agent) ([https://www.calleyai.tech/])
+- 🔭 I’m currently working on Calley AI (A Cold Calling AI voice agent) ([https://www.calleyai.tech/])
 
 - 🌱 I’m currently learning **Unity, C, C#, AR, and Quantum Computing.**
 
