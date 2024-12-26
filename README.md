@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Scam-Protect project](https://github.com/aditya10avg/Scam-Protect.git)
 
-- 👨‍💻 Check out my website to know more about me as a person [https://adityavg10.netlify.app/](https://adityavg10.netlify.app/)
+- 👨‍💻 Check out my website to know more about me as a person- https://adityavg10.netlify.app/](https://adityavg10.netlify.app/
 
 - 💬 Ask me about **Startups and emerging technologies like AR/VR, and Quantum Computing. (I am more curious about these things)**
 
