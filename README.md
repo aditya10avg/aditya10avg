@@ -17,7 +17,7 @@
 
 - 👨‍💻 Check out my website to know more about me as a person- https://adityavg10.netlify.app/](https://adityavg10.netlify.app/
 
-- 💬 Ask me about **Startups and emerging technologies like AR/VR, and Quantum Computing. (I am more curious about these things)**
+- 💬 Ask me about **Startups and emerging technologies like AR & VR, and Quantum Computing. (I am more curious about these things)**
 
 - 📫 How to reach me **adityavg1005@gmail.com**
 
