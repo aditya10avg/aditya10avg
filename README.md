@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">I am a passionate problem solver who works in AI and ML, AR and VR, and Quantum Computing. I Learn by buiding Projects.</h3>
+<h3 align="center">I am a passionate problem solver who works in AI and ML, AR and VR, and Quantum Computing. I Learn by Building The Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya10avg&label=Profile%20views&color=0e75b6&style=flat" alt="aditya10avg" /> </p>
 
