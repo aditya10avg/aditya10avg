@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aditya</h1>
-<h3 align="center">I am a passionate problem solver who works in AI and ML, AR and VR, and Quantum Computing. I learn by building the Projects.</h3>
+<h3 align="center">I am a passionate problem solver. I work in AI and ML, AR and VR, and Quantum Computing. I learn by building the Projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya10avg&label=Profile%20views&color=0e75b6&style=flat" alt="aditya10avg" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m Currently working on Calley AI (A Cold Calling AI voice agent, launching soon)- https://www.calleyai.tech/
 
-- 🌱 I’m Currently learning **Unity, C#, AR, and Quantum Computing.**
+- 🌱 I’m Currently learning **AR, and Quantum Computing.**
 
 - 👯 I’m looking to collaborate on [An open-source Fraud Prevention AI. Also open to any AI/ML, AR, and Quantum Computing related projects](https://github.com/aditya10avg/Scam-Protect.git)
 
