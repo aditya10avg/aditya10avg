@@ -9,7 +9,7 @@
 
 - 🔭 I’m Currently working on Calley AI (A Cold Calling AI voice agent, launching soon)- https://www.calleyai.tech/
 
-- 🌱 I’m Currently learning **AR, and Quantum Computing.**
+- 🌱 I’m Currently learning **AR,ands Quantum Computing.**
 
 - 👯 I’m looking to collaborate on [An open-source Fraud Prevention AI. Also open to any AI/ML, AR, and Quantum Computing related projects](https://github.com/aditya10avg/Scam-Protect.git)
 
