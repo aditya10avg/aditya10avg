@@ -24,17 +24,14 @@
 
 - 🔭 I’m currently working on Essora ( https://essora.app/) and have previously worked at Calley AI (A Cold Calling AI voice agent for sales and recruitment via telecalls)- https://www.calleyai.tech/
 
-- 🌱 I’m currently exploring 
+- 👨‍💻 Check out my website to know more about me as a person- https://aditya-vg.vercel.app/
 
-- 👨‍💻 Check out my website to know more about me as a person- https://aditya-vg.vercel.app/]
+- 💬 Ask me about **Startups, GTM and emerging technologies like AI/ML, Agentic Systems, and GTM Engineering**
 
-- 💬 Ask me about **Startups and emerging technologies like AR & VR, and Quantum Computing. (I am more curious about these things)**
+- 📫 HMU @ **adityavg1005@gmail.com**
 
-- 📫 How to reach me **adityavg1005@gmail.com**
+- 📄 Know more about me at [https://www.linkedin.com/in/aditya-gayakwad-ba993026a](https://www.linkedin.com/in/aditya-gayakwad-ba993026a)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aditya-gayakwad-ba993026a](https://www.linkedin.com/in/aditya-gayakwad-ba993026a)
-
-- ⚡ Fun fact **I think in a very crazy way and will express those thoughts If I get comfortable with that person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
