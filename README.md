@@ -1,3 +1,14 @@
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/avg_aditya" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avg_aditya" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/aditya-gayakwad-ba993026a/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gayakwad-ba993026a" height="30" width="40" />
+</a>
+</p>
+
+
 <h1 align="center">Hello 👋, I'm Aditya</h1>
 <h3 align="center">I am a passionate problem solver. I work in AI/ML space building GenAI, LLM-based, and agentic AI applications. I learn by building Projects that solve real-world problems.</h3>
 
@@ -7,7 +18,7 @@
 
 <p align="left"> <a href="https://twitter.com/avg_aditya" target="blank"><img src="https://img.shields.io/twitter/follow/avg_aditya?logo=twitter&style=for-the-badge" alt="avg_aditya" /></a> </p>
 
-- 🔭 I’m currently working on Essora ( https://essora.app/) and have previously worked at Calley AI (A Cold Calling AI voice agent for sales and recruitement via telecalls)- https://www.calleyai.tech/
+- 🔭 I’m currently working on Essora ( https://essora.app/) and have previously worked at Calley AI (A Cold Calling AI voice agent for sales and recruitment via telecalls)- https://www.calleyai.tech/
 
 - 🌱 I’m currently exploring 
 
