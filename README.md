@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aditya</h1>
-<h3 align="center">I am a passionate problem solver. I work in AI and ML, AR & VR, and Quantum Computing. I learn by building the Projects that solve the real world problems.</h3>
+<h3 align="center">I am a passionate problem solver. I work in AI/ML space building GenAI, LLM-based, and agentic AI applications. I learn by building Projects that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya10avg&label=Profile%20views&color=0e75b6&style=flat" alt="aditya10avg" /> </p>
 
@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/avg_aditya" target="blank"><img src="https://img.shields.io/twitter/follow/avg_aditya?logo=twitter&style=for-the-badge" alt="avg_aditya" /></a> </p>
 
-- 🔭 I’m Currently working on Calley AI (A Cold Calling AI voice agent, launching soon)- https://www.calleyai.tech/
+- 🔭 I’m currently working on Essora ( https://essora.app/) and have previously worked at Calley AI (A Cold Calling AI voice agent for sales and recruitement via telecalls)- https://www.calleyai.tech/
 
-- 🌱 I’m Currently learning **AR,ands Quantum Computing.**
+- 🌱 I’m currently exploring 
 
-- 👯 I’m looking to collaborate on [An open-source Fraud Prevention AI. Also open to any AI/ML, AR, and Quantum Computing related projects](https://github.com/aditya10avg/Scam-Protect.git)
-
-- 🤝 I’m looking for help with [Scam-Protect project](https://github.com/aditya10avg/Scam-Protect.git)
-
-- 👨‍💻 Check out my website to know more about me as a person- https://adityavg10.netlify.app/]
+- 👨‍💻 Check out my website to know more about me as a person- https://aditya-vg.vercel.app/]
 
 - 💬 Ask me about **Startups and emerging technologies like AR & VR, and Quantum Computing. (I am more curious about these things)**
 
