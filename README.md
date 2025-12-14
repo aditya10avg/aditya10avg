@@ -1,15 +1,19 @@
+<h1 align="center">Hello 👋, I'm Aditya</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/NotElonYet" target="blank">
+
+<!-- X / Twitter -->
+<a href="https://x.com/NotElonYet" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NotElonYet" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/aditya-gayakwad-ba993026a/" target="blank">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/aditya-gayakwad-ba993026a/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gayakwad-ba993026a" height="30" width="40" />
 </a>
+
 </p>
 
-
-<h1 align="center">Hello 👋, I'm Aditya</h1>
 <h3 align="center">I am a passionate problem solver. I work in the AI/ML space building GenAI, LLM-based, and agentic AI applications. I learn by building Projects that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya10avg&label=Profile%20views&color=0e75b6&style=flat" alt="aditya10avg" /> </p>
